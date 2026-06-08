@@ -1,0 +1,5 @@
+anthropic
+datasets
+pandas
+streamlit
+plotly

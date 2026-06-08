@@ -1,0 +1,2347 @@
+{
+  "total_reviews_analyzed": 500,
+  "total_batches": 25,
+  "successful_batches": 25,
+  "avg_sentiment": 0.606,
+  "avg_rating": 3.95,
+  "top_complaints": [
+    [
+      "noise level",
+      15
+    ],
+    [
+      "short power cord",
+      14
+    ],
+    [
+      "insufficient suction power",
+      14
+    ],
+    [
+      "battery life below expectations",
+      13
+    ],
+    [
+      "poor build quality / parts breaking",
+      10
+    ],
+    [
+      "build quality/durability issues",
+      10
+    ],
+    [
+      "small dustbin capacity",
+      10
+    ],
+    [
+      "battery life shorter than advertised",
+      8
+    ],
+    [
+      "durability/quality issues",
+      7
+    ],
+    [
+      "build quality concerns",
+      7
+    ]
+  ],
+  "top_praises": [
+    [
+      "strong suction power",
+      83
+    ],
+    [
+      "suction power",
+      41
+    ],
+    [
+      "pet hair performance",
+      36
+    ],
+    [
+      "quiet operation",
+      30
+    ],
+    [
+      "powerful suction",
+      30
+    ],
+    [
+      "ease of use",
+      24
+    ],
+    [
+      "easy to use/maintain",
+      19
+    ],
+    [
+      "pet hair pickup",
+      17
+    ],
+    [
+      "cleaning performance",
+      17
+    ],
+    [
+      "pet hair removal",
+      16
+    ]
+  ],
+  "feature_requests": [
+    [
+      "longer power cord",
+      22
+    ],
+    [
+      "clearer instructions",
+      18
+    ],
+    [
+      "larger dustbin",
+      12
+    ],
+    [
+      "larger dustbin capacity",
+      11
+    ],
+    [
+      "better battery life",
+      8
+    ],
+    [
+      "improved battery life",
+      7
+    ],
+    [
+      "improved filter longevity",
+      4
+    ],
+    [
+      "better filter longevity",
+      4
+    ],
+    [
+      "faster charger",
+      4
+    ],
+    [
+      "faster charging",
+      4
+    ]
+  ],
+  "batch_results": [
+    {
+      "overall_sentiment": 0.52,
+      "avg_rating": 3.8,
+      "top_complaints": [
+        {
+          "issue": "Battery life below expectations",
+          "count": 2,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Poor build quality / parts breaking",
+          "count": 2,
+          "example": "The attachment clips broke within weeks and replacement parts are expensive"
+        },
+        {
+          "issue": "Motor issues (loud/overheating)",
+          "count": 2,
+          "example": "The motor is loud, it overheats"
+        },
+        {
+          "issue": "Quality feels cheap/plastic",
+          "count": 1,
+          "example": "The quality feels a bit plastic-y"
+        },
+        {
+          "issue": "Defective units on arrival",
+          "count": 1,
+          "example": "arrived with a cracked part and after 3 weeks the motor started burning smell"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong suction power",
+          "count": 6,
+          "example": "Good suction power"
+        },
+        {
+          "aspect": "Effective cleaning performance",
+          "count": 5,
+          "example": "My floors have never been cleaner"
+        },
+        {
+          "aspect": "Lightweight design",
+          "count": 3,
+          "example": "surprisingly lightweight"
+        },
+        {
+          "aspect": "Quiet operation",
+          "count": 2,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Handles pet hair well",
+          "count": 2,
+          "example": "powerful enough to handle dog hair everywhere"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin capacity",
+          "count": 1
+        },
+        {
+          "feature": "Longer power cord",
+          "count": 1
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 3
+        },
+        {
+          "feature": "Better battery life",
+          "count": 2
+        },
+        {
+          "feature": "Improved build quality",
+          "count": 2
+        }
+      ],
+      "summary": "Products deliver strong cleaning performance and suction but suffer from quality control issues including battery life discrepancies, fragile parts, and motor problems. Focus on improving build quality, battery performance, and better product documentation to convert satisfied 4-star customers to enthusiastic 5-star advocates.",
+      "batch_index": 0,
+      "product_asins": [
+        "NJ001",
+        "SN003",
+        "SN004",
+        "NJ003",
+        "NJ002",
+        "SN002",
+        "SN001",
+        "NJ004"
+      ],
+      "review_count": 20,
+      "category": "Shark"
+    },
+    {
+      "overall_sentiment": 0.72,
+      "avg_rating": 4.15,
+      "top_complaints": [
+        {
+          "issue": "Durability/Quality Issues",
+          "count": 3,
+          "example": "started making a strange noise after 2 months"
+        },
+        {
+          "issue": "Battery Life",
+          "count": 2,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Filter Clogging",
+          "count": 2,
+          "example": "filters clog faster than I expected"
+        },
+        {
+          "issue": "Small Dustbin",
+          "count": 2,
+          "example": "dustbin could be larger"
+        },
+        {
+          "issue": "Unclear Instructions",
+          "count": 2,
+          "example": "instructions could be clearer"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong Suction Power",
+          "count": 11,
+          "example": "suction is incredible"
+        },
+        {
+          "aspect": "Pet Hair Performance",
+          "count": 6,
+          "example": "powerful enough to handle dog hair everywhere"
+        },
+        {
+          "aspect": "Easy to Use/Maintain",
+          "count": 6,
+          "example": "easy to use. Filters are easy to clean"
+        },
+        {
+          "aspect": "Quiet Operation",
+          "count": 3,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Lightweight/Maneuverable",
+          "count": 3,
+          "example": "surprisingly lightweight"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger Dustbin Capacity",
+          "count": 2
+        },
+        {
+          "feature": "Longer/Better Battery Life",
+          "count": 2
+        },
+        {
+          "feature": "Improved Filter Longevity",
+          "count": 2
+        },
+        {
+          "feature": "Longer Power Cord",
+          "count": 1
+        },
+        {
+          "feature": "Clearer Instructions",
+          "count": 2
+        }
+      ],
+      "summary": "SharkNinja vacuum products receive strong praise for suction power and pet hair performance, averaging 4.15 stars. However, durability concerns, battery life issues, and filter maintenance are recurring complaints that need addressing. Focus on improving build quality and extending battery performance to reduce negative reviews.",
+      "batch_index": 1,
+      "product_asins": [
+        "SN001",
+        "NJ003",
+        "SN002",
+        "NJ004",
+        "NJ001",
+        "SN004",
+        "SN003",
+        "NJ005"
+      ],
+      "review_count": 20,
+      "category": "Shark"
+    },
+    {
+      "overall_sentiment": 0.68,
+      "avg_rating": 4.15,
+      "top_complaints": [
+        {
+          "issue": "Noise level",
+          "count": 4,
+          "example": "Minor complaint is that it's a bit loud but nothing terrible"
+        },
+        {
+          "issue": "Overheating",
+          "count": 1,
+          "example": "The motor is loud, it overheats"
+        },
+        {
+          "issue": "Filter clogging",
+          "count": 1,
+          "example": "The filters clog faster than I expected"
+        },
+        {
+          "issue": "Struggles with heavy debris",
+          "count": 2,
+          "example": "It struggles with larger debris"
+        },
+        {
+          "issue": "Build quality concerns",
+          "count": 1,
+          "example": "The quality feels a bit plastic-y"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Pet hair pickup",
+          "count": 8,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Suction power",
+          "count": 9,
+          "example": "the suction is incredible"
+        },
+        {
+          "aspect": "Lightweight design",
+          "count": 2,
+          "example": "it's surprisingly lightweight"
+        },
+        {
+          "aspect": "Ease of use",
+          "count": 3,
+          "example": "Easy to assemble, powerful suction, and very maneuverable"
+        },
+        {
+          "aspect": "Value for price",
+          "count": 4,
+          "example": "For the price the Ninja Professional delivers solid performance"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Clearer instructions",
+          "count": 1
+        },
+        {
+          "feature": "Improved warranty process",
+          "count": 1
+        },
+        {
+          "feature": "Better filter longevity",
+          "count": 1
+        }
+      ],
+      "summary": "Products receive strong ratings (4.15/5) with exceptional pet hair removal and suction power. Key opportunity: address noise complaints and filter durability issues affecting mid-tier ratings.",
+      "batch_index": 2,
+      "product_asins": [
+        "SN003",
+        "NJ005",
+        "NJ003",
+        "SN002",
+        "SN004",
+        "NJ004",
+        "NJ001",
+        "NJ002",
+        "SN001"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.45,
+      "avg_rating": 3.6,
+      "top_complaints": [
+        {
+          "issue": "Build quality/durability issues",
+          "count": 5,
+          "example": "broke after 6 weeks"
+        },
+        {
+          "issue": "Battery life below expectations",
+          "count": 2,
+          "example": "battery life is not as advertised"
+        },
+        {
+          "issue": "Filter clogs frequently",
+          "count": 1,
+          "example": "filters clog faster than I expected"
+        },
+        {
+          "issue": "Short power cord",
+          "count": 1,
+          "example": "cord is a bit short for my large living room"
+        },
+        {
+          "issue": "Poor customer support",
+          "count": 2,
+          "example": "Called customer support and they were useless"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Powerful suction/cleaning performance",
+          "count": 8,
+          "example": "powerful enough to handle dog hair everywhere"
+        },
+        {
+          "aspect": "Quiet operation",
+          "count": 3,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Easy to clean filters",
+          "count": 3,
+          "example": "Filters are easy to clean"
+        },
+        {
+          "aspect": "Lightweight and maneuverable",
+          "count": 3,
+          "example": "surprisingly lightweight"
+        },
+        {
+          "aspect": "Long battery life",
+          "count": 2,
+          "example": "battery lasts a long time"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Longer power cord",
+          "count": 1
+        },
+        {
+          "feature": "Faster charger",
+          "count": 1
+        },
+        {
+          "feature": "More durable attachment clips",
+          "count": 1
+        }
+      ],
+      "summary": "Products show strong cleaning performance and quiet operation, but significant durability concerns exist with multiple units breaking within 2 months. Address build quality issues, especially attachment clips and internal components, and improve customer support responsiveness to prevent reputation damage.",
+      "batch_index": 3,
+      "product_asins": [
+        "NJ004",
+        "NJ003",
+        "NJ001",
+        "SN001",
+        "SN002",
+        "NJ002",
+        "SN004"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.68,
+      "avg_rating": 4.0,
+      "top_complaints": [
+        {
+          "issue": "Battery life shorter than advertised",
+          "count": 2,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Poor build quality / parts breaking",
+          "count": 2,
+          "example": "The attachment clips broke within weeks"
+        },
+        {
+          "issue": "Product reliability / durability issues",
+          "count": 2,
+          "example": "stopped working properly after about 3 months"
+        },
+        {
+          "issue": "Filters clog quickly",
+          "count": 1,
+          "example": "The filters clog faster than I expected"
+        },
+        {
+          "issue": "Poor customer service",
+          "count": 2,
+          "example": "Called customer support and they were useless"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Powerful suction",
+          "count": 6,
+          "example": "powerful suction, and very maneuverable"
+        },
+        {
+          "aspect": "Easy to use / clean / empty",
+          "count": 5,
+          "example": "easy to empty, and works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Works well on multiple surfaces",
+          "count": 3,
+          "example": "works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Good battery life",
+          "count": 3,
+          "example": "battery lasts a long time"
+        },
+        {
+          "aspect": "Lightweight / maneuverable",
+          "count": 2,
+          "example": "surprisingly lightweight"
+        }
+      ],
+      "feature_requests": [],
+      "summary": "Products show strong performance in suction and ease of use, but battery life and build quality are recurring pain points. Customer service needs improvement as multiple users report unhelpful support when products fail prematurely.",
+      "batch_index": 4,
+      "product_asins": [
+        "SN002",
+        "SN001",
+        "NJ002",
+        "SN003",
+        "NJ003",
+        "SN004",
+        "NJ004",
+        "NJ005",
+        "NJ001"
+      ],
+      "review_count": 20,
+      "category": "Shark"
+    },
+    {
+      "overall_sentiment": 0.35,
+      "avg_rating": 3.7,
+      "top_complaints": [
+        {
+          "issue": "Suction power inadequate",
+          "count": 5,
+          "example": "struggles with larger debris"
+        },
+        {
+          "issue": "Battery life shorter than advertised",
+          "count": 3,
+          "example": "battery life is not as advertised"
+        },
+        {
+          "issue": "Filter clogs quickly",
+          "count": 2,
+          "example": "filters clog faster than I expected"
+        },
+        {
+          "issue": "Product defects/quality issues",
+          "count": 2,
+          "example": "arrived with a cracked part"
+        },
+        {
+          "issue": "Durability concerns",
+          "count": 2,
+          "example": "stopped working properly after about 3 months"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Pet hair pickup",
+          "count": 4,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Strong suction",
+          "count": 4,
+          "example": "suction is incredible"
+        },
+        {
+          "aspect": "Good value for price",
+          "count": 3,
+          "example": "For the price delivers solid performance"
+        },
+        {
+          "aspect": "Quiet operation",
+          "count": 3,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Lightweight/easy to use",
+          "count": 2,
+          "example": "surprisingly lightweight"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin capacity",
+          "count": 1
+        },
+        {
+          "feature": "Improved battery life",
+          "count": 3
+        },
+        {
+          "feature": "Better dust containment when emptying",
+          "count": 1
+        },
+        {
+          "feature": "Longer-lasting filters",
+          "count": 2
+        },
+        {
+          "feature": "Faster charging",
+          "count": 2
+        }
+      ],
+      "summary": "Products show strong performance in pet hair removal and suction when working properly, but quality control issues and durability concerns are significant problems. Battery life consistently underperforms advertised specs, and filter longevity needs improvement to meet customer expectations.",
+      "batch_index": 5,
+      "product_asins": [
+        "SN001",
+        "NJ004",
+        "NJ002",
+        "SN002",
+        "NJ003",
+        "NJ001",
+        "SN003",
+        "NJ005",
+        "SN004"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.62,
+      "avg_rating": 4.0,
+      "top_complaints": [
+        {
+          "issue": "Strange noise after short use",
+          "count": 3,
+          "example": "started making a strange noise after 2 months"
+        },
+        {
+          "issue": "Poor build quality",
+          "count": 3,
+          "example": "Build quality is not great"
+        },
+        {
+          "issue": "Product broke early",
+          "count": 1,
+          "example": "broke after 6 weeks"
+        },
+        {
+          "issue": "Battery life disappointing",
+          "count": 1,
+          "example": "battery life is not as advertised"
+        },
+        {
+          "issue": "Unclear instructions",
+          "count": 3,
+          "example": "The instructions could be clearer"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Powerful suction",
+          "count": 9,
+          "example": "powerful suction, and very maneuverable"
+        },
+        {
+          "aspect": "Easy to use/assemble",
+          "count": 5,
+          "example": "Easy to assemble, powerful suction"
+        },
+        {
+          "aspect": "Handles pet hair well",
+          "count": 4,
+          "example": "handles pet hair well"
+        },
+        {
+          "aspect": "Works on multiple surfaces",
+          "count": 3,
+          "example": "works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Easy to maintain/empty",
+          "count": 5,
+          "example": "easy to empty, and works great"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Improved instructions/manual",
+          "count": 3
+        },
+        {
+          "feature": "Better battery life",
+          "count": 1
+        },
+        {
+          "feature": "Faster charger",
+          "count": 1
+        }
+      ],
+      "summary": "Products perform well with strong suction and pet hair handling, but quality control issues emerge with noise/failures after 2 months of use. Improve build quality and durability to reduce early failures, and clarify product instructions for better user onboarding.",
+      "batch_index": 6,
+      "product_asins": [
+        "SN003",
+        "NJ003",
+        "NJ005",
+        "NJ004",
+        "SN002",
+        "NJ001"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.68,
+      "avg_rating": 4.25,
+      "top_complaints": [
+        {
+          "issue": "Motor noise/overheating",
+          "count": 3,
+          "example": "The motor is loud, it overheats"
+        },
+        {
+          "issue": "Filter clogging/maintenance",
+          "count": 2,
+          "example": "The filters clog faster than I expected"
+        },
+        {
+          "issue": "Short power cord",
+          "count": 2,
+          "example": "The cord is a bit short for my large living room"
+        },
+        {
+          "issue": "Low suction power",
+          "count": 2,
+          "example": "I expected more suction power. It struggles with larger debris"
+        },
+        {
+          "issue": "Small dustbin capacity",
+          "count": 1,
+          "example": "the dustbin could be larger"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Ease of cleaning/maintenance",
+          "count": 8,
+          "example": "Filters are easy to clean and battery lasts a long time"
+        },
+        {
+          "aspect": "Strong suction/cleaning power",
+          "count": 7,
+          "example": "Picks up pet hair effortlessly and the suction is incredible"
+        },
+        {
+          "aspect": "Multi-surface performance",
+          "count": 3,
+          "example": "works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Quiet operation",
+          "count": 2,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Lightweight/maneuverable",
+          "count": 2,
+          "example": "surprisingly lightweight"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Longer power cord",
+          "count": 2
+        },
+        {
+          "feature": "Larger dustbin",
+          "count": 1
+        },
+        {
+          "feature": "Better filter longevity",
+          "count": 1
+        },
+        {
+          "feature": "Stronger suction for large debris",
+          "count": 1
+        }
+      ],
+      "summary": "Products receive strong ratings (4.25/5) with customers praising suction power, ease of maintenance, and pet hair performance. Key issues include motor noise/overheating in some units, filter clogging, and short power cords. Warranty support and build quality inconsistencies need attention to prevent customer dissatisfaction.",
+      "batch_index": 7,
+      "product_asins": [
+        "NJ002",
+        "NJ004",
+        "SN002",
+        "NJ001",
+        "SN003",
+        "SN001",
+        "NJ005"
+      ],
+      "review_count": 20,
+      "category": "Shark"
+    },
+    {
+      "overall_sentiment": 0.72,
+      "avg_rating": 4.25,
+      "top_complaints": [
+        {
+          "issue": "Build quality concerns",
+          "count": 3,
+          "example": "started making a strange noise after 2 months. Build quality is not great"
+        },
+        {
+          "issue": "Battery life below expectations",
+          "count": 2,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Motor noise and overheating",
+          "count": 2,
+          "example": "The motor is loud, it overheats"
+        },
+        {
+          "issue": "Insufficient suction power",
+          "count": 2,
+          "example": "I expected more suction power. It struggles with larger debris"
+        },
+        {
+          "issue": "Poor customer service experience",
+          "count": 2,
+          "example": "the warranty process was a nightmare"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Excellent suction power",
+          "count": 12,
+          "example": "No loss of suction, easy to empty, and works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Easy to clean and maintain",
+          "count": 8,
+          "example": "Filters are easy to clean and battery lasts a long time"
+        },
+        {
+          "aspect": "Lightweight and maneuverable",
+          "count": 5,
+          "example": "surprisingly lightweight"
+        },
+        {
+          "aspect": "Useful attachments",
+          "count": 4,
+          "example": "The attachments are very useful"
+        },
+        {
+          "aspect": "Handles multiple floor types well",
+          "count": 4,
+          "example": "works great on both carpet and hardwood"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Improved battery life",
+          "count": 2
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 1
+        },
+        {
+          "feature": "Better noise reduction",
+          "count": 1
+        }
+      ],
+      "summary": "Products receive strong ratings (4.25/5) with customers praising suction power, ease of maintenance, and multi-surface performance. Key concerns include inconsistent build quality, battery life falling short of marketing claims, and poor customer service experiences that need immediate attention.",
+      "batch_index": 8,
+      "product_asins": [
+        "NJ004",
+        "SN001",
+        "SN002",
+        "NJ002",
+        "SN003",
+        "SN004",
+        "NJ001",
+        "NJ005",
+        "NJ003"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.72,
+      "avg_rating": 4.15,
+      "top_complaints": [
+        {
+          "issue": "Poor build quality",
+          "count": 3,
+          "example": "The attachment clips broke within weeks"
+        },
+        {
+          "issue": "Product failure/defects",
+          "count": 2,
+          "example": "The Ninja Air broke after 6 weeks"
+        },
+        {
+          "issue": "Short cord length",
+          "count": 2,
+          "example": "The cord is a bit short for my large living room"
+        },
+        {
+          "issue": "Poor customer support",
+          "count": 2,
+          "example": "Called customer support and they were useless"
+        },
+        {
+          "issue": "Struggles with heavy messes",
+          "count": 1,
+          "example": "struggles with heavy messes"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Cleaning performance",
+          "count": 8,
+          "example": "My floors have never been cleaner"
+        },
+        {
+          "aspect": "Powerful suction",
+          "count": 7,
+          "example": "powerful suction, and very maneuverable"
+        },
+        {
+          "aspect": "Pet hair removal",
+          "count": 3,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Lightweight design",
+          "count": 4,
+          "example": "surprisingly lightweight"
+        },
+        {
+          "aspect": "Useful attachments",
+          "count": 4,
+          "example": "The attachments are very useful"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Longer power cord",
+          "count": 2
+        },
+        {
+          "feature": "Better build quality/durability",
+          "count": 3
+        },
+        {
+          "feature": "Improved customer support",
+          "count": 2
+        }
+      ],
+      "summary": "Products receive strong praise for cleaning performance and suction power, particularly with pet hair. However, build quality issues and product failures are concerning, with multiple reports of broken parts and defective units. Customer support responsiveness needs immediate improvement to address warranty/defect issues.",
+      "batch_index": 9,
+      "product_asins": [
+        "NJ002",
+        "SN002",
+        "NJ004",
+        "NJ001",
+        "NJ005",
+        "SN003"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.68,
+      "avg_rating": 4.15,
+      "top_complaints": [
+        {
+          "issue": "Build quality feels cheap/plastic",
+          "count": 3,
+          "example": "The quality feels a bit plastic-y"
+        },
+        {
+          "issue": "Battery life below expectations",
+          "count": 1,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Noise level",
+          "count": 1,
+          "example": "Minor complaint is that it's a bit loud"
+        },
+        {
+          "issue": "Durability concerns",
+          "count": 1,
+          "example": "started making a strange noise after 2 months"
+        },
+        {
+          "issue": "Small dustbin capacity",
+          "count": 1,
+          "example": "the dustbin could be larger"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Pet hair pickup",
+          "count": 5,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Suction power",
+          "count": 9,
+          "example": "the suction is incredible"
+        },
+        {
+          "aspect": "Lightweight design",
+          "count": 3,
+          "example": "surprisingly lightweight"
+        },
+        {
+          "aspect": "Useful attachments",
+          "count": 3,
+          "example": "The attachments are very useful"
+        },
+        {
+          "aspect": "Easy to maintain/empty",
+          "count": 4,
+          "example": "easy to empty"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin",
+          "count": 1
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 1
+        },
+        {
+          "feature": "Better battery life",
+          "count": 1
+        },
+        {
+          "feature": "Faster charging",
+          "count": 1
+        }
+      ],
+      "summary": "SharkNinja vacuum products receive strong praise for suction power and pet hair removal, with 65% 5-star ratings. Key improvement areas include perceived build quality (plastic feel) and battery performance. Customer satisfaction is high overall but addressing durability concerns could reduce churn.",
+      "batch_index": 10,
+      "product_asins": [
+        "NJ003",
+        "SN003",
+        "NJ002",
+        "NJ004",
+        "SN001",
+        "SN004",
+        "NJ005",
+        "SN002"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.52,
+      "avg_rating": 3.85,
+      "top_complaints": [
+        {
+          "issue": "Build quality and durability issues",
+          "count": 6,
+          "example": "The attachment clips broke within weeks and replacement parts are expensive"
+        },
+        {
+          "issue": "Product failures within 2-3 months",
+          "count": 4,
+          "example": "stopped working properly after about 3 months. The suction dropped dramatically"
+        },
+        {
+          "issue": "Noise level",
+          "count": 2,
+          "example": "it's a bit loud but nothing terrible"
+        },
+        {
+          "issue": "Poor quality control and DOA units",
+          "count": 2,
+          "example": "didn't work out of the box. Had to return it"
+        },
+        {
+          "issue": "Unhelpful customer service",
+          "count": 1,
+          "example": "customer service was unhelpful"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong suction power",
+          "count": 8,
+          "example": "the suction is incredible"
+        },
+        {
+          "aspect": "Pet hair performance",
+          "count": 4,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Easy to use and clean",
+          "count": 5,
+          "example": "Filters are easy to clean and battery lasts a long time"
+        },
+        {
+          "aspect": "Lightweight and maneuverable",
+          "count": 3,
+          "example": "surprisingly lightweight"
+        },
+        {
+          "aspect": "Good value for price",
+          "count": 4,
+          "example": "For the price delivers solid performance"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin capacity",
+          "count": 1
+        },
+        {
+          "feature": "Longer power cord",
+          "count": 1
+        }
+      ],
+      "summary": "Products deliver strong suction and pet hair performance, but critical build quality and durability issues are causing failures within 2-3 months. Immediate focus needed on QC processes and material durability to prevent early-life failures that damage brand reputation.",
+      "batch_index": 11,
+      "product_asins": [
+        "NJ001",
+        "SN003",
+        "SN001",
+        "SN002",
+        "NJ003",
+        "SN004",
+        "NJ005",
+        "NJ004",
+        "NJ002"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.68,
+      "avg_rating": 4.05,
+      "top_complaints": [
+        {
+          "issue": "Quality/Durability Issues",
+          "count": 3,
+          "example": "broke after 6 weeks"
+        },
+        {
+          "issue": "Battery Life Below Expectations",
+          "count": 2,
+          "example": "battery life is not as advertised"
+        },
+        {
+          "issue": "Plastic Build Quality",
+          "count": 2,
+          "example": "quality feels a bit plastic-y"
+        },
+        {
+          "issue": "Filter Clogs Frequently",
+          "count": 1,
+          "example": "filters clog faster than I expected"
+        },
+        {
+          "issue": "Insufficient Suction Power",
+          "count": 1,
+          "example": "expected more suction power"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Pet Hair Performance",
+          "count": 6,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Strong Suction Power",
+          "count": 6,
+          "example": "suction is incredible"
+        },
+        {
+          "aspect": "Ease of Use",
+          "count": 5,
+          "example": "easy to empty"
+        },
+        {
+          "aspect": "Multi-Surface Performance",
+          "count": 3,
+          "example": "works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Quiet Operation",
+          "count": 2,
+          "example": "Quiet enough to use while my baby sleeps"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger Dustbin Capacity",
+          "count": 1
+        },
+        {
+          "feature": "Faster Charging",
+          "count": 1
+        },
+        {
+          "feature": "Better Filter Longevity",
+          "count": 1
+        }
+      ],
+      "summary": "Products receive strong praise for pet hair removal and suction power, with 65% 5-star ratings. However, quality control issues and product failures are damaging brand reputation. Immediate focus needed on durability testing and customer support responsiveness.",
+      "batch_index": 12,
+      "product_asins": [
+        "SN001",
+        "SN003",
+        "SN002",
+        "NJ001",
+        "SN004",
+        "NJ004",
+        "NJ003"
+      ],
+      "review_count": 20,
+      "category": "Shark"
+    },
+    {
+      "overall_sentiment": 0.52,
+      "avg_rating": 3.65,
+      "top_complaints": [
+        {
+          "issue": "Build quality/durability concerns",
+          "count": 5,
+          "example": "quality feels a bit plastic-y"
+        },
+        {
+          "issue": "Filter clogging/maintenance issues",
+          "count": 2,
+          "example": "filters clog faster than I expected"
+        },
+        {
+          "issue": "Battery life below expectations",
+          "count": 1,
+          "example": "battery life is not as advertised"
+        },
+        {
+          "issue": "Product defects/quality control",
+          "count": 1,
+          "example": "didn't work out of the box"
+        },
+        {
+          "issue": "Expensive replacement parts",
+          "count": 1,
+          "example": "replacement parts are expensive"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong suction power",
+          "count": 8,
+          "example": "suction is incredible"
+        },
+        {
+          "aspect": "Ease of use",
+          "count": 5,
+          "example": "easy to use"
+        },
+        {
+          "aspect": "Cleaning performance",
+          "count": 5,
+          "example": "My floors have never been cleaner"
+        },
+        {
+          "aspect": "Lightweight/maneuverability",
+          "count": 3,
+          "example": "surprisingly lightweight"
+        },
+        {
+          "aspect": "Useful attachments",
+          "count": 2,
+          "example": "attachments are very useful"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin capacity",
+          "count": 2
+        },
+        {
+          "feature": "Longer power cord",
+          "count": 1
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 1
+        },
+        {
+          "feature": "Faster charger",
+          "count": 1
+        }
+      ],
+      "summary": "Products deliver strong suction and cleaning performance but suffer from build quality concerns and durability issues. Focus on improving materials quality, dustbin capacity, and filter longevity to address the gap between excellent cleaning performance and mixed long-term satisfaction.",
+      "batch_index": 13,
+      "product_asins": [
+        "NJ004",
+        "NJ001",
+        "SN004",
+        "NJ003",
+        "NJ005",
+        "SN002",
+        "SN001",
+        "SN003",
+        "NJ002"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.52,
+      "avg_rating": 3.85,
+      "top_complaints": [
+        {
+          "issue": "Insufficient suction power",
+          "count": 4,
+          "example": "I expected more suction power. It struggles with larger debris"
+        },
+        {
+          "issue": "Small dustbin capacity",
+          "count": 4,
+          "example": "Docking a star only because the dustbin could be larger"
+        },
+        {
+          "issue": "Battery life below advertised",
+          "count": 1,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Quality defects/durability issues",
+          "count": 1,
+          "example": "arrived with a cracked part and after 3 weeks the motor started burning smell"
+        },
+        {
+          "issue": "Short power cord",
+          "count": 1,
+          "example": "The cord is a bit short for my large living room"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong suction performance",
+          "count": 9,
+          "example": "Suction is strong and it's easy to use"
+        },
+        {
+          "aspect": "Pet hair removal",
+          "count": 3,
+          "example": "Picks up pet hair effortlessly and the suction is incredible"
+        },
+        {
+          "aspect": "Ease of use",
+          "count": 8,
+          "example": "easy to use"
+        },
+        {
+          "aspect": "Lightweight design",
+          "count": 2,
+          "example": "surprisingly lightweight"
+        },
+        {
+          "aspect": "Versatile attachments",
+          "count": 2,
+          "example": "The attachments are very useful"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin",
+          "count": 4
+        },
+        {
+          "feature": "Improved battery life",
+          "count": 1
+        },
+        {
+          "feature": "Longer power cord",
+          "count": 1
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 1
+        }
+      ],
+      "summary": "Products receive positive feedback for suction power and ease of use, particularly with pet hair. Main improvement opportunities are larger dustbin capacity and addressing inconsistent suction performance on larger debris. Quality control issues reported in isolated cases require investigation.",
+      "batch_index": 14,
+      "product_asins": [
+        "NJ002",
+        "NJ003",
+        "NJ004",
+        "NJ005",
+        "NJ001",
+        "SN004",
+        "SN002",
+        "SN003",
+        "SN001"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.72,
+      "avg_rating": 4.25,
+      "top_complaints": [
+        {
+          "issue": "Durability/Reliability Issues",
+          "count": 3,
+          "example": "stopped working properly after about 3 months"
+        },
+        {
+          "issue": "Noise Level",
+          "count": 3,
+          "example": "a bit loud but nothing terrible"
+        },
+        {
+          "issue": "Small Dustbin Capacity",
+          "count": 2,
+          "example": "the dustbin could be larger"
+        },
+        {
+          "issue": "Poor Customer Service",
+          "count": 2,
+          "example": "customer service was unhelpful"
+        },
+        {
+          "issue": "Short Power Cord",
+          "count": 1,
+          "example": "The cord is a bit short for my large living room"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong Suction Power",
+          "count": 12,
+          "example": "the suction is incredible"
+        },
+        {
+          "aspect": "Pet Hair Performance",
+          "count": 6,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Easy to Use/Maintain",
+          "count": 8,
+          "example": "easy to empty"
+        },
+        {
+          "aspect": "Works on Multiple Surfaces",
+          "count": 4,
+          "example": "works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Lightweight/Maneuverable",
+          "count": 3,
+          "example": "surprisingly lightweight"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger Dustbin",
+          "count": 2
+        },
+        {
+          "feature": "Longer Power Cord",
+          "count": 1
+        },
+        {
+          "feature": "Clearer Instructions",
+          "count": 1
+        },
+        {
+          "feature": "Quieter Operation",
+          "count": 2
+        }
+      ],
+      "summary": "Products receive strong praise for suction power and pet hair handling, with 75% 5-star ratings. However, durability concerns and early product failures are emerging issues requiring immediate attention. Priority improvements: increase dustbin size, reduce noise, and strengthen quality control to prevent 2-3 month failure rates.",
+      "batch_index": 15,
+      "product_asins": [
+        "SN001",
+        "NJ003",
+        "NJ001",
+        "SN003",
+        "SN002",
+        "NJ002",
+        "NJ004",
+        "SN004"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.72,
+      "avg_rating": 4.15,
+      "top_complaints": [
+        {
+          "issue": "Build quality/durability issues",
+          "count": 3,
+          "example": "attachment clips broke within weeks and replacement parts are expensive"
+        },
+        {
+          "issue": "Filter clogging/maintenance",
+          "count": 2,
+          "example": "filters clog faster than I expected and I've already had to replace one"
+        },
+        {
+          "issue": "Battery life below expectations",
+          "count": 1,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Product defects on arrival",
+          "count": 1,
+          "example": "arrived with a cracked part and after 3 weeks the motor started burning smell"
+        },
+        {
+          "issue": "Short power cord",
+          "count": 1,
+          "example": "cord is a bit short for my large living room"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Pet hair removal effectiveness",
+          "count": 5,
+          "example": "powerful enough to handle dog hair everywhere"
+        },
+        {
+          "aspect": "Suction power",
+          "count": 5,
+          "example": "suction is incredible"
+        },
+        {
+          "aspect": "Easy to clean/maintain",
+          "count": 4,
+          "example": "Filters are easy to clean"
+        },
+        {
+          "aspect": "Quiet operation",
+          "count": 3,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Multi-surface performance",
+          "count": 2,
+          "example": "works great on both carpet and hardwood"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Longer power cord",
+          "count": 1
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 2
+        },
+        {
+          "feature": "Better battery life",
+          "count": 1
+        },
+        {
+          "feature": "Improved filter longevity",
+          "count": 2
+        }
+      ],
+      "summary": "SharkNinja vacuum products receive strong praise for suction power and pet hair removal, with 65% 5-star ratings. However, durability concerns (broken clips, motor failures) and filter maintenance issues require immediate attention to prevent reputation damage. Customer support quality also needs improvement based on negative feedback.",
+      "batch_index": 16,
+      "product_asins": [
+        "NJ004",
+        "SN003",
+        "NJ005",
+        "SN001",
+        "NJ001",
+        "SN004",
+        "SN002",
+        "NJ002"
+      ],
+      "review_count": 20,
+      "category": "Shark"
+    },
+    {
+      "overall_sentiment": 0.62,
+      "avg_rating": 4.05,
+      "top_complaints": [
+        {
+          "issue": "Durability/Quality Issues",
+          "count": 4,
+          "example": "stopped working properly after about 3 months"
+        },
+        {
+          "issue": "Motor Problems",
+          "count": 3,
+          "example": "the motor started burning smell"
+        },
+        {
+          "issue": "Plastic Quality",
+          "count": 2,
+          "example": "The quality feels a bit plastic-y"
+        },
+        {
+          "issue": "Battery Life",
+          "count": 1,
+          "example": "battery life is not as advertised"
+        },
+        {
+          "issue": "Customer Service",
+          "count": 2,
+          "example": "customer service was unhelpful"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Pet Hair Performance",
+          "count": 9,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Suction Power",
+          "count": 8,
+          "example": "the suction is incredible"
+        },
+        {
+          "aspect": "Quiet Operation",
+          "count": 5,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Ease of Use",
+          "count": 3,
+          "example": "it's easy to use"
+        },
+        {
+          "aspect": "Cleaning Performance",
+          "count": 4,
+          "example": "My floors have never been cleaner"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger Dustbin",
+          "count": 2
+        },
+        {
+          "feature": "Longer Cord",
+          "count": 1
+        },
+        {
+          "feature": "Better Battery Life",
+          "count": 1
+        }
+      ],
+      "summary": "Products excel at pet hair removal and suction power with quiet operation, driving strong satisfaction (4.05 avg). However, reliability issues including motor failures and durability problems within 3 months require immediate quality control attention. Customer service improvements needed to address warranty complaints.",
+      "batch_index": 17,
+      "product_asins": [
+        "NJ003",
+        "NJ002",
+        "SN002",
+        "SN004",
+        "NJ004",
+        "NJ001",
+        "NJ005"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.72,
+      "avg_rating": 4.2,
+      "top_complaints": [
+        {
+          "issue": "Build quality/durability issues",
+          "count": 2,
+          "example": "attachment clips broke within weeks and replacement parts are expensive"
+        },
+        {
+          "issue": "Struggles with heavy messes",
+          "count": 2,
+          "example": "struggles with heavy messes"
+        },
+        {
+          "issue": "Noise level",
+          "count": 2,
+          "example": "The motor is loud"
+        },
+        {
+          "issue": "Overheating",
+          "count": 1,
+          "example": "it overheats"
+        },
+        {
+          "issue": "Poor warranty/customer service",
+          "count": 2,
+          "example": "the warranty process was a nightmare"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Powerful suction",
+          "count": 8,
+          "example": "the suction is incredible"
+        },
+        {
+          "aspect": "Pet hair performance",
+          "count": 3,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Easy to use/clean",
+          "count": 7,
+          "example": "Filters are easy to clean"
+        },
+        {
+          "aspect": "Maneuverability",
+          "count": 2,
+          "example": "very maneuverable"
+        },
+        {
+          "aspect": "Works on multiple surfaces",
+          "count": 1,
+          "example": "works great on both carpet and hardwood"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin capacity",
+          "count": 1
+        },
+        {
+          "feature": "Longer power cord",
+          "count": 2
+        },
+        {
+          "feature": "Quieter operation",
+          "count": 1
+        }
+      ],
+      "summary": "Products receive strong praise for suction power and pet hair removal, with 75% rating 4-5 stars. Key concerns include build quality/durability issues and short power cords. Prioritize improving attachment durability and consider larger dustbin capacity to address main pain points.",
+      "batch_index": 18,
+      "product_asins": [
+        "NJ003",
+        "SN001",
+        "NJ004",
+        "NJ005",
+        "SN003",
+        "SN004",
+        "NJ001",
+        "SN002"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.68,
+      "avg_rating": 4.0,
+      "top_complaints": [
+        {
+          "issue": "Build quality concerns",
+          "count": 3,
+          "example": "quality feels a bit plastic-y"
+        },
+        {
+          "issue": "Battery life disappointing",
+          "count": 2,
+          "example": "battery life is not as advertised"
+        },
+        {
+          "issue": "Noise level",
+          "count": 2,
+          "example": "Minor complaint is that it's a bit loud"
+        },
+        {
+          "issue": "Short power cord",
+          "count": 2,
+          "example": "The cord is a bit short for my large living room"
+        },
+        {
+          "issue": "Product defects/failures",
+          "count": 2,
+          "example": "arrived with a cracked part and motor started burning smell"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Pet hair removal",
+          "count": 10,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Suction power",
+          "count": 10,
+          "example": "suction is incredible"
+        },
+        {
+          "aspect": "Quiet operation",
+          "count": 3,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Easy to use",
+          "count": 3,
+          "example": "Easy to assemble, powerful suction, and very maneuverable"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 2,
+          "example": "Worth every penny"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin capacity",
+          "count": 1
+        },
+        {
+          "feature": "Longer power cord",
+          "count": 2
+        },
+        {
+          "feature": "Better battery life",
+          "count": 2
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 2
+        },
+        {
+          "feature": "Improved build quality/durability",
+          "count": 3
+        }
+      ],
+      "summary": "Products excel at pet hair removal and suction power with strong customer satisfaction (4.0 avg). Key improvement areas: enhance build quality/durability, extend battery life and power cord length, and improve documentation clarity to reduce friction.",
+      "batch_index": 19,
+      "product_asins": [
+        "SN003",
+        "SN002",
+        "NJ003",
+        "SN001",
+        "NJ004",
+        "SN004",
+        "NJ001",
+        "NJ002",
+        "NJ005"
+      ],
+      "review_count": 20,
+      "category": "Shark"
+    },
+    {
+      "overall_sentiment": 0.78,
+      "avg_rating": 4.45,
+      "top_complaints": [
+        {
+          "issue": "Battery life shorter than advertised",
+          "count": 1,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Filters clog quickly",
+          "count": 2,
+          "example": "filters clog faster than I expected"
+        },
+        {
+          "issue": "Small dustbin capacity",
+          "count": 1,
+          "example": "the dustbin could be larger"
+        },
+        {
+          "issue": "Build quality issues",
+          "count": 1,
+          "example": "started making a strange noise after 2 months. Build quality is not great"
+        },
+        {
+          "issue": "Noise level",
+          "count": 1,
+          "example": "it's a bit loud but nothing terrible"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong suction power",
+          "count": 9,
+          "example": "suction is incredible"
+        },
+        {
+          "aspect": "Easy to empty/clean",
+          "count": 8,
+          "example": "easy to empty"
+        },
+        {
+          "aspect": "Works on multiple surfaces",
+          "count": 5,
+          "example": "works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Pet hair performance",
+          "count": 2,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Lightweight and maneuverable",
+          "count": 3,
+          "example": "surprisingly lightweight"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin",
+          "count": 1
+        },
+        {
+          "feature": "Improved battery life",
+          "count": 1
+        },
+        {
+          "feature": "Faster charger",
+          "count": 1
+        },
+        {
+          "feature": "Better filters/longer filter life",
+          "count": 2
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 1
+        }
+      ],
+      "summary": "SharkNinja vacuum products receive overwhelmingly positive feedback with 80% 5-star ratings. Strong suction, ease of use, and multi-surface performance are consistently praised. Key improvement areas include battery life accuracy, filter longevity, and dustbin capacity.",
+      "batch_index": 20,
+      "product_asins": [
+        "SN004",
+        "NJ003",
+        "NJ004",
+        "NJ002",
+        "NJ001",
+        "SN002",
+        "SN003",
+        "SN001",
+        "NJ005"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.62,
+      "avg_rating": 3.85,
+      "top_complaints": [
+        {
+          "issue": "Loud motor noise",
+          "count": 3,
+          "example": "The motor is loud"
+        },
+        {
+          "issue": "Poor customer service/warranty",
+          "count": 2,
+          "example": "warranty process was a nightmare"
+        },
+        {
+          "issue": "Short power cord",
+          "count": 3,
+          "example": "The cord is a bit short for my large living room"
+        },
+        {
+          "issue": "Filter clogs quickly",
+          "count": 1,
+          "example": "The filters clog faster than I expected"
+        },
+        {
+          "issue": "Small dustbin capacity",
+          "count": 1,
+          "example": "the dustbin could be larger"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong suction power",
+          "count": 8,
+          "example": "powerful suction"
+        },
+        {
+          "aspect": "Excellent pet hair pickup",
+          "count": 4,
+          "example": "Picks up pet hair effortlessly"
+        },
+        {
+          "aspect": "Easy to use/maintain",
+          "count": 5,
+          "example": "easy to maintain"
+        },
+        {
+          "aspect": "Good value for price",
+          "count": 3,
+          "example": "Worth every penny"
+        },
+        {
+          "aspect": "Works on multiple surfaces",
+          "count": 2,
+          "example": "works great on both carpet and hardwood"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Longer power cord",
+          "count": 3
+        },
+        {
+          "feature": "Larger dustbin",
+          "count": 1
+        },
+        {
+          "feature": "Quieter motor operation",
+          "count": 3
+        },
+        {
+          "feature": "Better filters/less clogging",
+          "count": 1
+        },
+        {
+          "feature": "Clearer instructions",
+          "count": 2
+        }
+      ],
+      "summary": "Products show strong performance in suction and pet hair removal with 85% positive ratings, but noise levels and cord length are consistent pain points. Quality control issues and customer service need immediate attention given defect reports and warranty complaints.",
+      "batch_index": 21,
+      "product_asins": [
+        "NJ002",
+        "NJ005",
+        "SN001",
+        "SN002",
+        "NJ004",
+        "NJ003",
+        "SN003"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.35,
+      "avg_rating": 3.5,
+      "top_complaints": [
+        {
+          "issue": "Insufficient suction power",
+          "count": 5,
+          "example": "I expected more suction power. It struggles with larger debris."
+        },
+        {
+          "issue": "Loud motor/noise",
+          "count": 4,
+          "example": "The motor is loud, it overheats"
+        },
+        {
+          "issue": "Durability/reliability issues",
+          "count": 3,
+          "example": "stopped working properly after about 3 months"
+        },
+        {
+          "issue": "Battery life below expectations",
+          "count": 2,
+          "example": "the battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Filter clogs quickly",
+          "count": 2,
+          "example": "The filters clog faster than I expected"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong suction power",
+          "count": 6,
+          "example": "Good suction on carpet, handles pet hair well"
+        },
+        {
+          "aspect": "Easy to clean/maintain",
+          "count": 4,
+          "example": "Filters are easy to clean and battery lasts a long time"
+        },
+        {
+          "aspect": "Satisfying/enjoyable to use",
+          "count": 3,
+          "example": "now I vacuum every day. It's that satisfying to use"
+        },
+        {
+          "aspect": "Effective pet hair removal",
+          "count": 3,
+          "example": "powerful enough to handle dog hair everywhere"
+        },
+        {
+          "aspect": "Lightweight/maneuverable",
+          "count": 2,
+          "example": "surprisingly lightweight"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Improved battery life and faster charging",
+          "count": 2
+        },
+        {
+          "feature": "Better filter design to prevent clogging",
+          "count": 2
+        },
+        {
+          "feature": "Clearer instructions/documentation",
+          "count": 2
+        },
+        {
+          "feature": "Quieter motor operation",
+          "count": 1
+        },
+        {
+          "feature": "Better dustbin design to prevent dust release",
+          "count": 1
+        }
+      ],
+      "summary": "Products show polarized reception with strong suction and pet hair performance praised, but significant concerns around durability, noise levels, and suction consistency. Priority improvements needed: strengthen build quality to prevent early failures, reduce motor noise, and enhance battery performance to meet advertised specifications.",
+      "batch_index": 22,
+      "product_asins": [
+        "NJ004",
+        "SN001",
+        "NJ001",
+        "SN004",
+        "NJ005",
+        "NJ003"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.35,
+      "avg_rating": 3.5,
+      "top_complaints": [
+        {
+          "issue": "Poor build quality / parts breaking",
+          "count": 4,
+          "example": "The attachment clips broke within weeks and replacement parts are expensive"
+        },
+        {
+          "issue": "Customer service issues",
+          "count": 4,
+          "example": "customer service was unhelpful"
+        },
+        {
+          "issue": "Product failures / defects",
+          "count": 3,
+          "example": "motor started burning smell"
+        },
+        {
+          "issue": "Performance degradation over time",
+          "count": 2,
+          "example": "suction dropped dramatically after about 3 months"
+        },
+        {
+          "issue": "Noise / overheating issues",
+          "count": 2,
+          "example": "The motor is loud, it overheats"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Strong suction power",
+          "count": 9,
+          "example": "No loss of suction, easy to empty, and works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Easy to use / maintain",
+          "count": 8,
+          "example": "easy to empty"
+        },
+        {
+          "aspect": "Multi-surface performance",
+          "count": 4,
+          "example": "works great on both carpet and hardwood"
+        },
+        {
+          "aspect": "Quiet operation",
+          "count": 2,
+          "example": "Quiet enough to use while my baby sleeps"
+        },
+        {
+          "aspect": "Pet hair handling",
+          "count": 2,
+          "example": "powerful enough to handle dog hair everywhere"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Larger dustbin capacity",
+          "count": 1
+        },
+        {
+          "feature": "Clearer instructions / documentation",
+          "count": 3
+        }
+      ],
+      "summary": "Products deliver strong suction and ease of use, but suffer from quality control issues including part failures and performance degradation. Customer service and warranty support need immediate improvement to address post-purchase dissatisfaction.",
+      "batch_index": 23,
+      "product_asins": [
+        "SN003",
+        "SN002",
+        "NJ005",
+        "NJ001",
+        "NJ002",
+        "SN004",
+        "NJ004",
+        "NJ003",
+        "SN001"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    },
+    {
+      "overall_sentiment": 0.52,
+      "avg_rating": 3.85,
+      "top_complaints": [
+        {
+          "issue": "Battery life shorter than advertised",
+          "count": 2,
+          "example": "battery life is not as advertised and the charger is slow"
+        },
+        {
+          "issue": "Poor build quality / parts breaking",
+          "count": 2,
+          "example": "attachment clips broke within weeks and replacement parts are expensive"
+        },
+        {
+          "issue": "Insufficient suction power",
+          "count": 2,
+          "example": "I expected more suction power. It struggles with larger debris"
+        },
+        {
+          "issue": "Short power cord",
+          "count": 3,
+          "example": "The cord is a bit short for my large living room"
+        },
+        {
+          "issue": "Filters clog quickly",
+          "count": 1,
+          "example": "The filters clog faster than I expected"
+        }
+      ],
+      "top_praises": [
+        {
+          "aspect": "Easy filter maintenance",
+          "count": 4,
+          "example": "Filters are easy to clean"
+        },
+        {
+          "aspect": "Strong suction / cleaning power",
+          "count": 5,
+          "example": "powerful enough to handle dog hair everywhere"
+        },
+        {
+          "aspect": "Long battery life",
+          "count": 4,
+          "example": "battery lasts a long time"
+        },
+        {
+          "aspect": "Satisfying to use",
+          "count": 4,
+          "example": "now I vacuum every day. It's that satisfying to use"
+        },
+        {
+          "aspect": "Quiet operation",
+          "count": 2,
+          "example": "Quiet enough to use while my baby sleeps"
+        }
+      ],
+      "feature_requests": [
+        {
+          "feature": "Longer power cord",
+          "count": 3
+        },
+        {
+          "feature": "Better battery life / faster charging",
+          "count": 2
+        },
+        {
+          "feature": "Improved build quality for attachments",
+          "count": 1
+        },
+        {
+          "feature": "Better filter longevity",
+          "count": 1
+        }
+      ],
+      "summary": "Products show strong cleaning performance and user satisfaction (3.85/5 avg), but quality issues emerge around durability, battery life accuracy, and cord length. Priority improvements: extend power cord length, improve attachment durability, and deliver on advertised battery specifications.",
+      "batch_index": 24,
+      "product_asins": [
+        "SN004",
+        "NJ003",
+        "SN001",
+        "NJ001",
+        "NJ002",
+        "SN002",
+        "NJ004",
+        "SN003"
+      ],
+      "review_count": 20,
+      "category": "Ninja"
+    }
+  ]
+}

@@ -1,51 +1,108 @@
-# SharkNinja Review Intelligence
-**AI-powered product review analyzer built with Claude API**
+# 🦈 Product Review Intelligence
 
-Streams real SharkNinja product reviews from the Amazon Reviews 2023 dataset,
-analyzes them with Claude to extract complaints, praises, and feature gaps,
-and displays everything in an interactive Streamlit dashboard.
+An AI-powered pipeline that analyzes SharkNinja product reviews using Claude API and displays insights in an interactive dashboard.
+
+**Live Demo → [sharkninja-review-analyzer.streamlit.app](https://appuct-review-analyzer-d6kxfzwwi34ttrdaad3slx.streamlit.app)**
 
 ---
 
 ## What It Does
-- Streams only SharkNinja-branded rows from a 1M+ product dataset — no full download
-- Sends review batches to Claude API and gets back structured JSON insights
-- Displays sentiment trends, top complaints, feature requests, and an AI executive summary
+
+- Analyzes 500+ SharkNinja product reviews across 9 products (Shark vacuums, Ninja air fryers, blenders)
+- Uses Claude API to extract sentiment scores, top complaints, praises, and feature requests per batch
+- Generates AI executive summaries a product manager can act on
+- Displays everything in an interactive dark-themed dashboard with filterable charts
+
+## Key Findings
+
+| Insight | Result |
+|---|---|
+| Overall Sentiment | Positive (0.61 / 1.0) |
+| Avg Star Rating | 3.95 / 5.0 |
+| Top Complaint | Noise level |
+| Top Praise | Strong suction power |
+| Top Feature Request | Longer power cord |
+
+## Architecture
+
+```
+Product Reviews (CSV)
+       ↓
+Python — cleans and batches reviews
+       ↓
+Claude API (Messages API) — extracts structured insights as JSON
+       ↓
+analysis_results.json
+       ↓
+Streamlit Dashboard — charts, summaries, raw review explorer
+```
 
 ## Stack
+
 | Layer | Tool | Cost |
 |---|---|---|
-| Data | Amazon Reviews 2023 (McAuley Lab, UCSD) | Free |
-| AI Analysis | Claude API (claude-sonnet-4) | Free tier |
-| Dashboard | Streamlit | Free |
+| Data | Product reviews | Free |
+| AI Analysis | Claude API (claude-sonnet-4-5) | Free tier |
+| Dashboard | Streamlit + Plotly | Free |
 | Hosting | Streamlit Community Cloud | Free |
+| Version Control | GitHub | Free |
 
-## Setup
+**Total cost: $0**
 
+## Project Structure
+
+```
+sharkninja-review-analyzer/
+├── .streamlit/
+│   └── config.toml          # Dark purple theme config
+├── generate_data.py          # Generates synthetic review dataset
+├── analyze.py                # Sends reviews to Claude API, saves JSON
+├── step3_dashboard.py        # Streamlit dashboard
+├── requirements.txt          # Python dependencies
+└── README.md
+```
+
+## Run Locally
+
+**1. Clone the repo:**
 ```bash
 git clone https://github.com/YOUR_USERNAME/sharkninja-review-analyzer
 cd sharkninja-review-analyzer
+```
+
+**2. Install dependencies:**
+```bash
 pip install -r requirements.txt
 ```
 
-Set your Claude API key:
-```bash
-export ANTHROPIC_API_KEY=your-key-here
+**3. Set your Claude API key:**
+```powershell
+# Windows PowerShell
+$env:ANTHROPIC_API_KEY="sk-ant-your-key-here"
+
+# Mac / Linux
+export ANTHROPIC_API_KEY="sk-ant-your-key-here"
 ```
 
-## Run
-
+**4. Generate data and run analysis:**
 ```bash
-# Step 1: Stream SharkNinja reviews (takes ~10-20 min on first run)
-python step1_get_data.py
+python generate_data.py    # Creates review CSVs
+python analyze.py          # Calls Claude API, saves analysis_results.json
+```
 
-# Step 2: Analyze with Claude API
-python step2_analyze.py
-
-# Step 3: Launch the dashboard
+**5. Launch the dashboard:**
+```bash
 streamlit run step3_dashboard.py
 ```
+Opens at `localhost:8501`
 
-## Data Source
-Amazon Reviews 2023 — McAuley Lab, UC San Diego  
-https://amazon-reviews-2023.github.io/
+## Requirements
+
+```
+anthropic
+pandas
+streamlit
+plotly
+```
+
+Built with Python · Claude API · Streamlit · Plotly
